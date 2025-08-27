@@ -9,14 +9,14 @@
 - لینک ریپازیتوری: https://github.com/mobinaTaheri-06/DMath_FinalProject_4032
 
 ## توضیحات
-[این پروژه به تحلیل شبکه های اجتماعی از طریف شبیه سازی انها به گراف می پردازد. در این پروژه ۲ فاسل دیتا داریم که کد ها از طریق ان ران میشود.این دیتا ها در ۲ فایل sample2.csv , df_sample.csv قرار دارند.
+[این پروژه به تحلیل شبکه های اجتماعی از طریق شبیه سازی انها به گراف می پردازد. در این پروژه ۲ فایل دیتا داریم که کد ها از طریق ان ران میشود.این دیتا ها در ۲ فایل sample2.csv , df_sample.csv قرار دارند.
 ساخت گراف از روی داده خام و بررسی نوع گراف و محاسبه درجه ورود و خروج هر نود و بررسی همبندی و اجرای الگوریتم DFS , BFS و محاسبه کوتاه ترین مسیر و بررسی نود کلیدی در این پروژه انجام میشود.]
 
 ## ساختار پوشه
 - data/: df_sample.csv , sample2.csv 
 - code/: analyze-type.py , analyze_centrality.py , bfs.py , connectedComponents.py , dfs.py , dijkstra.py , draw-gragh.py
 - plots/: sample_graph.png
-- report.pdf: 
+- report.pdf: report.md
 
 ## دستورالعمل اجرا
 [فایل را  clone  کنید و سپس کد های ان را ران کنید.]
